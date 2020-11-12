@@ -4,9 +4,9 @@ int light = 0;
 
 void setup() {
   // put your setup code here, to run once:
-Serial.begin(9600);
-pinMode(13, OUTPUT);
-pinMode(12, OUTPUT);
+  Serial.begin(9600);
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
 }
 
 void loop() {
