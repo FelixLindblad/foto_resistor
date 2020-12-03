@@ -1,2 +1,2 @@
 # foto_resistor
-Göra en lampa som reagerar på ljus 
+Make a lamp that responds to light
